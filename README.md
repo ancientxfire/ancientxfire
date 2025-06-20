@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mc-Pixie Launcher & Mc-Pixie Network<br>🌱 I’m currently using typescript, flutter!<br>
+🌱 I’m currently using typescript, flutter!<br>
 
 
 ## 🌐 Socials:
